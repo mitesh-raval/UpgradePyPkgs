@@ -1,5 +1,6 @@
 # UpgradePyPkgs
-A bash script that uses a simple python script to automate upgrading python packages 
+A shell script that uses a simple cross-platform python script to automate upgrading 
+python packages.
 
 *********************
 pipUpgradePkgs.sh : 
